@@ -1,5 +1,5 @@
 # Lenovo-XiaoXIn-310-15IKB-Hackintosh
-本项目修改自[Lenovo-V310-15IKB-Hackintosh](https://github.com/lee-namc/Lenovo-V310-15IKB-Hackintosh)。
+本项目修改自 [Lenovo-V310-15IKB-Hackintosh](https://github.com/lee-namc/Lenovo-V310-15IKB-Hackintosh) 。
 | 规格     | 详细信息                 |
 | -------- | ------------------------ |
 | CPU      | i5-7500U                 |
