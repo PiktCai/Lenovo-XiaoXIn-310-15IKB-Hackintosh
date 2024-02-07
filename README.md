@@ -6,7 +6,7 @@
 | GPU      | HD 620                   |
 | Memory   | 8 GB                    |
 | Wireless | Realtek AC201             |
-| 操作系统 | Monterey |
+| 操作系统 | Monterey |  
 大致可用情况与原项目相同。本项目主要做了以下修改：
 - 由于两机型网卡不同，移除了INTEL网卡驱动，目前机载网卡无解
 - 注入了声卡 ID，可以使用内置扬声器及话筒
